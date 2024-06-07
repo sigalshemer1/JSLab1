@@ -28,3 +28,14 @@ function show(){
     console.log(functionVar); // Throws ReferenceError
     console.log(functionLet); // Throws ReferenceError
     console.log(functionConst); // Throws ReferenceError
+
+    {
+        var A1="AAAA";
+        let B1="BBBBB";
+        const C1="CCCC";
+        
+    }
+
+    console.log(A1);
+        console.log(B1);
+        console.log(C1);
