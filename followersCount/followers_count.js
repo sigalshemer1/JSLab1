@@ -4,7 +4,7 @@ function increaseCount() {
     count++; // Increment the count by 1
     displayCount(); // Display the count
     checkCountValue(); // Check count value and display messages
-    alert("AAAAA");
+	alert("DDDDDDDDDDDDDDDDD");
   }
 
   function displayCount() {
