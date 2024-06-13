@@ -1,5 +1,5 @@
 var xhr = new XMLHttpRequest();
-var url = './health_article.json';
+var url = './news.json';
 
 xhr.open('GET', url, true);
 xhr.responseType = 'json';
